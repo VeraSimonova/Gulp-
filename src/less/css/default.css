@@ -1,0 +1,7 @@
+@import "../css/bootstrap.min.css";
+body {
+  background-color: #0f0;
+}
+p {
+  border: solid 3px #ccc;
+}
